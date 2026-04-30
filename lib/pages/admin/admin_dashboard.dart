@@ -528,7 +528,7 @@ class _AdminDashboardState extends State<AdminDashboard> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 DropdownButtonFormField<String>(
-                  value: selectedType,
+                  initialValue: selectedType,
                   items: const [
                     DropdownMenuItem(value: "note", child: Text("Note")),
                     DropdownMenuItem(value: "video", child: Text("Video")),
