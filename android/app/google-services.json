@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518439793335",
+    "project_id": "cbc-learn-mate-001",
+    "storage_bucket": "cbc-learn-mate-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518439793335:android:a38927dd2bc01ae191d332",
+        "android_client_info": {
+          "package_name": "com.example.cbc_learn_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy71lqz5WmgzdWWZ4ODfcbPUolQfWdpIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
